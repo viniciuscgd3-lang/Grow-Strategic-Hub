@@ -1,0 +1,6 @@
+{
+  "appId": "com.grow.strategichub",
+  "appName": "Grow Strategic Hub",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
